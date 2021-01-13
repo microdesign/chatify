@@ -12,7 +12,7 @@
 /*
 * This is the main app route [Chatify Messenger]
 */
-Route::get('/', 'MessagesController@index')->name(config('chatify.path'));
+Route::get('/', 'MessagesController@index')->name('home');
 
 /**
  *  Fetch info for specific id [user/group]
