@@ -1,5 +1,5 @@
 {
-    "name": "munafio/chatify",
+    "name": "microdesign/chatify",
     "description": "A package for Laravel PHP Framework to add a complete real-time chat system.",
     "type": "library",
     "keywords": ["laravel", "messenger", "conversations", "chat", "php", "pusher", "realtime", "real-time"],
@@ -8,6 +8,10 @@
         {
             "name": "Munaf A. Mahdi",
             "email": "munafaqeelmahdi@gmail.com"
+        },
+        {
+            "name": "Martin Tonev",
+            "email": "martintonev85@gmail.com"
         }
     ],
     "minimum-stability": "dev",
